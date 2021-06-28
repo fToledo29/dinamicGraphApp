@@ -1,0 +1,21 @@
+.edge-container {
+    width: 100%;
+    display: flex;
+    flex-flow: row;
+    justify-content: space-between;
+    justify-items: center;
+    align-items: flex-end;
+}
+
+.edge-link {
+    width: 5rem;
+}
+
+.edges {
+	width: 10rem;
+}
+
+.edges-container {
+	display: flex;
+    justify-content: center;
+}
